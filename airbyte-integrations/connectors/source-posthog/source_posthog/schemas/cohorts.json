@@ -8,7 +8,7 @@
       "type": "string"
     },
     "groups": {
-      "type": ["array", "object"],
+      "type": ["null", "array", "object"],
       "items": {
         "type": "object",
         "properties": {
